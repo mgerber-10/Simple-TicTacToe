@@ -1,2 +1,2 @@
 # Simple-TicTacToe
-Simple game of Tic Tac Toe implemented in Python.
+Simple game of Tic Tac Toe for two users implemented in Python.
